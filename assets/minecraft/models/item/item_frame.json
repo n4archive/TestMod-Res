@@ -1,0 +1,9 @@
+{
+	"parent":"supermc/core",
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"custom_blocks/null"},
+		{"predicate":{"custom_model_data":3},"model":"custom_blocks/null"},
+		{"predicate":{"custom_model_data":2},"model":"cbitem/null"},
+		{"predicate":{"custom_model_data":4},"model":"cbitem/null"}
+	]
+}
